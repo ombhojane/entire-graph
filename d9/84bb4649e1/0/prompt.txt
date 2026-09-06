@@ -1,0 +1,11 @@
+yeahh track 2, pushed it
+
+---
+
+got the fixture, put it in fixtures/curveball/
+see for track 2, and test!
+see hwo its performing
+
+---
+
+okayy implement the fix, third verdict state + partial analysis
