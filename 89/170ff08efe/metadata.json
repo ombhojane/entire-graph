@@ -1,0 +1,29 @@
+{
+  "cli_version": "0.10.5",
+  "checkpoint_id": "89170ff08efe",
+  "strategy": "manual-commit",
+  "branch": "buildathon",
+  "checkpoints_count": 3,
+  "files_touched": [
+    "tools/atc-fixture/build_partial_fixture.sh",
+    "tools/atc/README.md",
+    "tools/atc/collide.py",
+    "tools/atc/test_atc.py"
+  ],
+  "sessions": [
+    {
+      "metadata": "/89/170ff08efe/0/metadata.json",
+      "transcript": "/89/170ff08efe/0/full.jsonl",
+      "compact_transcript": "/89/170ff08efe/0/transcript.jsonl",
+      "content_hash": "/89/170ff08efe/0/content_hash.txt",
+      "prompt": "/89/170ff08efe/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 110,
+    "cache_creation_tokens": 107300,
+    "cache_read_tokens": 6053107,
+    "output_tokens": 48109,
+    "api_call_count": 55
+  }
+}
