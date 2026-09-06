@@ -1,0 +1,34 @@
+alrightt, see there are open prs, merge to main no??
+
+---
+
+ombhojane
+entire-graph
+Public
+forked from entireio/entire-graph
+entire/checkpoints/v1 had recent pushes 1 minute ago
+buildathon had recent pushes 1 minute ago
+
+see i can see on github its there
+on diff rbnaches
+
+manage this all correcty now
+
+---
+
+but its the confusion no? multiple brnaches?? so work will considered or not whicha are on other branches, see all correctly once again please
+
+---
+
+so tell me the todo progress
+
+
+done switched to buuldathon
+
+what built and whats pending!
+
+(add user inteface in it as well, a simulation demo, so we can ensure everyhting is working as intended)
+
+be creative, push ur limits & beyon here!
+
+uiux, product understanding & functional >> core tech (even if its rocket science level)
