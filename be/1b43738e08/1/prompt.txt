@@ -1,0 +1,19 @@
+When multiple AI agents or developers work on a codebase at the same time, they constantly edit the same logic and ruin each other's work without realizing it until merge time. ATC is a simple early-warning system that prevents this. It checks your changes in real time to show if another agent is touching the same functions, and uses Databricks to remember past crashes so it can warn you before you even start touching risky files. It simply keeps everyone from stepping on each other's toes so parallel work actually stays fast and painless.
+
+
+task:
+let's create a minimalisitc picth deck
+no ai slops, tags, unncessary content
+keep it short simple genuine concise, easy to geasp
+make sure people are unaware, so they'll get it
+use apple minimalism for it to design!
+
+---
+
+please have simple geneuin content. its complex sentenses!
+also light theme please
+show what we built
+[problem we are solving 
+how 
+tech stack - daatabricks , etc
+who's this for
