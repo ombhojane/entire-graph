@@ -1,0 +1,1 @@
+Read ATC_HANDOFF.md, then ATC_PLAN.md and BUILDATHON.md. Confirm state: git log --oneline -5, entire checkpoint list, and python3 tools/atc/test_atc.py (expect 24/24). Then create the checkpoint-bearing milestone commits we're missing — we're at 0 checkpoints because all prior work ran from a different directory. Do not restart or refactor the build; it is complete and verified.
