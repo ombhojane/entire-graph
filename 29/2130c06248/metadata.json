@@ -1,0 +1,28 @@
+{
+  "cli_version": "0.10.5",
+  "checkpoint_id": "292130c06248",
+  "strategy": "manual-commit",
+  "branch": "buildathon",
+  "checkpoints_count": 3,
+  "files_touched": [
+    "output/imagegen/atc-deck.png",
+    "output/imagegen/drone-evidence.png",
+    "output/imagegen/world-airspace.png"
+  ],
+  "sessions": [
+    {
+      "metadata": "/29/2130c06248/0/metadata.json",
+      "transcript": "/29/2130c06248/0/full.jsonl",
+      "compact_transcript": "/29/2130c06248/0/transcript.jsonl",
+      "content_hash": "/29/2130c06248/0/content_hash.txt",
+      "prompt": "/29/2130c06248/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 20,
+    "cache_creation_tokens": 6562,
+    "cache_read_tokens": 1543987,
+    "output_tokens": 4297,
+    "api_call_count": 10
+  }
+}
