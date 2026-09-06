@@ -45,3 +45,13 @@ please think step by step in order to resolve this
 <status>completed</status>
 <summary>Background command "Generate three illustrations via OpenAI (Python)" completed (exit code 0)</summary>
 </task-notification>
+
+---
+
+why html? i think we will be good in nextjs nodejs
+becuase its scalabel, ui libraries are already there, better for scale , deployment as well no??
+we cna have modular codebase as well
+im irpoessed with current design, but its multiple page which arent connected as such, we can heva good uiux sensse!!
+think for it!
+avoid ai slops, unncessary descitiptions
+keep simple, gneiine, concise content!
