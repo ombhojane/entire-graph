@@ -3,7 +3,7 @@
   "checkpoint_id": "594bcc7d14d4",
   "strategy": "manual-commit",
   "branch": "buildathon",
-  "checkpoints_count": 1,
+  "checkpoints_count": 2,
   "files_touched": [
     "ATC_HANDOFF.md",
     "ATC_PLAN.md",
@@ -16,13 +16,20 @@
       "compact_transcript": "/59/4bcc7d14d4/0/transcript.jsonl",
       "content_hash": "/59/4bcc7d14d4/0/content_hash.txt",
       "prompt": ""
+    },
+    {
+      "metadata": "/59/4bcc7d14d4/1/metadata.json",
+      "transcript": "/59/4bcc7d14d4/1/full.jsonl",
+      "compact_transcript": "/59/4bcc7d14d4/1/transcript.jsonl",
+      "content_hash": "/59/4bcc7d14d4/1/content_hash.txt",
+      "prompt": "/59/4bcc7d14d4/1/prompt.txt"
     }
   ],
   "token_usage": {
-    "input_tokens": 14,
-    "cache_creation_tokens": 145939,
-    "cache_read_tokens": 1082194,
-    "output_tokens": 7559,
-    "api_call_count": 7
+    "input_tokens": 212,
+    "cache_creation_tokens": 337290,
+    "cache_read_tokens": 16888417,
+    "output_tokens": 109423,
+    "api_call_count": 106
   }
 }
